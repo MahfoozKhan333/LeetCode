@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
+| [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 ## Hash Table
 |  |
 | ------- |
@@ -17,4 +18,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3859-maximum-product-of-two-digits](https://github.com/MahfoozKhan333/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
