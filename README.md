@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/MahfoozKhan333/LeetCode/tree/master/0342-power-of-four) |
+## Database
+|  |
+| ------- |
+| [0177-nth-highest-salary](https://github.com/MahfoozKhan333/LeetCode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
