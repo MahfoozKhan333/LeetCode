@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
 | [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
+| [0898-transpose-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0177-nth-highest-salary](https://github.com/MahfoozKhan333/LeetCode/tree/master/0177-nth-highest-salary) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0898-transpose-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
