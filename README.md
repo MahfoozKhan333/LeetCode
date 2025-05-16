@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
+| [0135-candy](https://github.com/MahfoozKhan333/LeetCode/tree/master/0135-candy) |
 | [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0898-transpose-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0898-transpose-matrix) |
 ## Hash Table
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0898-transpose-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0898-transpose-matrix) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/MahfoozKhan333/LeetCode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
