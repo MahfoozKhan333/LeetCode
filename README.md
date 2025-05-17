@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/MahfoozKhan333/LeetCode/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/MahfoozKhan333/LeetCode/tree/master/0070-climbing-stairs) |
 | [0326-power-of-three](https://github.com/MahfoozKhan333/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahfoozKhan333/LeetCode/tree/master/0342-power-of-four) |
