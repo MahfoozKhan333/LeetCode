@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/MahfoozKhan333/LeetCode/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/MahfoozKhan333/LeetCode/tree/master/1236-n-th-tribonacci-number) |
 | [1378-cells-with-odd-values-in-a-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/1378-cells-with-odd-values-in-a-matrix) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/MahfoozKhan333/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 | [3859-maximum-product-of-two-digits](https://github.com/MahfoozKhan333/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Sorting
 |  |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/MahfoozKhan333/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahfoozKhan333/LeetCode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/MahfoozKhan333/LeetCode/tree/master/1013-fibonacci-number) |
+| [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/MahfoozKhan333/LeetCode/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 ## Memoization
 |  |
 | ------- |
