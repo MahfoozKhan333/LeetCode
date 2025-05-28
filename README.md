@@ -20,11 +20,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
 | [0073-set-matrix-zeroes](https://github.com/MahfoozKhan333/LeetCode/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/MahfoozKhan333/LeetCode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/MahfoozKhan333/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MahfoozKhan333/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/MahfoozKhan333/LeetCode/tree/master/0258-add-digits) |
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/MahfoozKhan333/LeetCode/tree/master/0258-add-digits) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
