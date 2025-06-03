@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MahfoozKhan333/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MahfoozKhan333/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MahfoozKhan333/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0889-buddy-strings](https://github.com/MahfoozKhan333/LeetCode/tree/master/0889-buddy-strings) |
 ## Math
 |  |
 | ------- |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
+| [0889-buddy-strings](https://github.com/MahfoozKhan333/LeetCode/tree/master/0889-buddy-strings) |
 ## Linked List
 |  |
 | ------- |
