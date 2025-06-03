@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/MahfoozKhan333/LeetCode/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/MahfoozKhan333/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MahfoozKhan333/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/MahfoozKhan333/LeetCode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/MahfoozKhan333/LeetCode/tree/master/0342-power-of-four) |
@@ -138,5 +139,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/MahfoozKhan333/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MahfoozKhan333/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/MahfoozKhan333/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/MahfoozKhan333/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/MahfoozKhan333/LeetCode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
