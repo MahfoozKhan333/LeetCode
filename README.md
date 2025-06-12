@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0015-3sum) |
 | [0054-spiral-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MahfoozKhan333/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/MahfoozKhan333/LeetCode/tree/master/0135-candy) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0015-3sum) |
 | [1961-maximum-ice-cream-bars](https://github.com/MahfoozKhan333/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [3859-maximum-product-of-two-digits](https://github.com/MahfoozKhan333/LeetCode/tree/master/3859-maximum-product-of-two-digits) |
 ## Binary Search
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/MahfoozKhan333/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/MahfoozKhan333/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MahfoozKhan333/LeetCode/tree/master/0142-linked-list-cycle-ii) |
