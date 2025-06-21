@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MahfoozKhan333/LeetCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/MahfoozKhan333/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/MahfoozKhan333/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/MahfoozKhan333/LeetCode/tree/master/0142-linked-list-cycle-ii) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/MahfoozKhan333/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/MahfoozKhan333/LeetCode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MahfoozKhan333/LeetCode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/MahfoozKhan333/LeetCode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/MahfoozKhan333/LeetCode/tree/master/0070-climbing-stairs) |
 | [0258-add-digits](https://github.com/MahfoozKhan333/LeetCode/tree/master/0258-add-digits) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/MahfoozKhan333/LeetCode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/MahfoozKhan333/LeetCode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/MahfoozKhan333/LeetCode/tree/master/0020-valid-parentheses) |
 | [0889-buddy-strings](https://github.com/MahfoozKhan333/LeetCode/tree/master/0889-buddy-strings) |
 ## Linked List
