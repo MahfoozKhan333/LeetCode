@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0015-3sum) |
+| [0035-search-insert-position](https://github.com/MahfoozKhan333/LeetCode/tree/master/0035-search-insert-position) |
 | [0054-spiral-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/MahfoozKhan333/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/MahfoozKhan333/LeetCode/tree/master/0135-candy) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/MahfoozKhan333/LeetCode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/MahfoozKhan333/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/MahfoozKhan333/LeetCode/tree/master/0367-valid-perfect-square) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/MahfoozKhan333/LeetCode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
